@@ -41,6 +41,14 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'django_filters',
+    'pillow',
+    'psycopg2-binary',
+    'PyJWT',
+    'python-dotenv',
+    'sqlparse',
+    'tzdata',
+
+
 
     'accounts',
     'teams',
